@@ -1,4 +1,5 @@
-* [简介](README.md)
+* [简介]()
+* [说明](README.md)
 * 1\. TensorFlow相关操作
     * [1. GPU计算图配置](tensorflow/1.md)
     * [2. 总参数量](tensorflow/2.md)
