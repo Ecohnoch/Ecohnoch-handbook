@@ -11,6 +11,7 @@
     * [8. NetVLAD层写法](tensorflow/8.md)
     * [9. VGGVOX写法](tensorflow/9.md)
 * 2\. Numpy相关操作
+    * [1. 爱因斯坦求和约定](numpy/1.md)
 * 3\. 音频\/图像预处理
     * [1. 多线程预处理](preprocessing/1.md)
     * [2. 图像预处理](preprocessing/2.md)
@@ -21,3 +22,6 @@
 
 * 5\. OpenCV相关操作
     * [1. OpenCV图像转换](opencv/1.md)
+
+* 6\. Web相关
+    * [1. Npm install相关问题](web/1.md)
