@@ -33,5 +33,5 @@
 
 * 9\. Docker相关操作
     * [1. Docker 容器镜像的查看与删除操作](docker/1.md)
-    * [2. Docker X11 forwarding设置](docekr/2.md)
-    * [3. Docker GPU设置](docekr/3.md)
+    * [2. Docker X11 forwarding设置](docker/2.md)
+    * [3. Docker GPU设置](docker/3.md)
