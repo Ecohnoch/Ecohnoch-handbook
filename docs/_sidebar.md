@@ -20,7 +20,13 @@
     * [1. Matplotlib Mac导入](matplotlib/1.md)
     * [2. Matplotlib 插值拟合](matplotlib/2.md)
 * 5\. OpenCV相关操作
-    * [1. OpenCV图像转换](opencv/1.md)
+    * [1. OpenCV图像基本变换](opencv/1.md)
+    * [2. 视频操作](opencv/2.md)
+    * [3. 图像阈值](opencv/3.md)
+    * [4. 平滑滤波](opencv/4.md)
+    * [5. 边缘检测、腐蚀与膨胀](opencv/5.md)
+    * [6. 直方图](opencv/6.md)
+    * [7. 模板匹配](opencv/7.md)
 
 * 6\. Web相关
     * [1. Npm install相关问题](web/1.md)
