@@ -1,6 +1,6 @@
 # 简介
 
-> 这是一个Ecohnoch的速查本
+> 这是一个速查本项目
 
 > 毕竟记忆不太行，国内网速也不好，为了更快更方便的写代码，特地记下了很多可速查的操作
 
@@ -38,3 +38,10 @@
 提交pr的时候可以注明作者单位，我都会放进去，所有的作者名称汇总会在本界面更新。
 
 另一方面可以直接联系我，我的联系方式在[http://www.ecohnoch.cn](http://www.ecohnoch.cn)右上角的【关于】那里，人多的话可以建立qq/微信群，希望能够做的更好。
+
+
+# Authors
+
+[@Ecohnoch](https://github.com/Ecohnoch/Ecohnoch-handbook)
+
+[@Steven Zhang](https://github.com/YuYanzy)
