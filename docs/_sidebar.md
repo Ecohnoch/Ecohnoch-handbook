@@ -44,3 +44,6 @@
 
 * 10\. GPU编程
     * [1. 向量相加](gpu/1.md)
+
+* 11\. 公式大全
+    * [1. Boosting](formula/1.md)
