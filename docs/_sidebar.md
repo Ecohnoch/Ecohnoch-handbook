@@ -12,6 +12,7 @@
     * [9. VGGVOX写法](tensorflow/9.md)
 * 2\. Numpy相关操作
     * [1. 爱因斯坦求和约定](numpy/1.md)
+    * [2. np 添加一行或一列](numpy/2.md)
 * 3\. 音频\/图像预处理
     * [1. 多线程预处理](preprocessing/1.md)
     * [2. 图像预处理](preprocessing/2.md)
