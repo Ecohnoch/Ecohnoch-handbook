@@ -54,3 +54,4 @@
     
 * 13\. Jupyter相关
     * [1. conda 与 notebook 环境搭建](jupyter/1.md)
+    * [2. jupyter notebook 使用插件](jupyter/2.md)
