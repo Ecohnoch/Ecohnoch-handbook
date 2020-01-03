@@ -51,3 +51,6 @@
 
 * 12\. 公式大全
     * [1. Boosting](formula/1.md)
+    
+* 13\. Jupyter相关
+    * [1. conda 与 notebook 环境搭建](jupyter/1.md)
