@@ -52,6 +52,7 @@
 * 12\. 公式大全
     * [1. Boosting](formula/1.md)
     * [2. 正态分布和极大似然估计](formula/2.md)
+    * [3. EM算法](formula/3.md)
     
 * 13\. Jupyter相关
     * [1. conda 与 notebook 环境搭建](jupyter/1.md)
