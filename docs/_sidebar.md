@@ -66,13 +66,11 @@
 * 14\. PyCharm相关
     * [1. PyCharm Python Console 无法使用 GPU](pycharm/1.md)
 
-<<<<<<< HEAD
-* 15\. tf.keras相关
+* 15\. Excel读写
+    * [1. Excel与Python读写](excel/1.md)
+
+* 16\. tf.keras相关
     * [1. 文件名格式不对产生 OSError](tf_keras/1.md)
     * [2. 在同样的环境中重复载入模型](tf_keras/2.md)
     * [3. lr multiplier 无法正确读入自定义的优化器](tf_keras/3.md)
     * [4. plot_model 报缺少 graphviz 的错](tf_keras/4.md)
-=======
-* 15\. Excel读写
-    * [1. Excel与Python读写](excel/1.md)
->>>>>>> b905888c2485d241f06c50142533dcbd96a00250
