@@ -23,7 +23,8 @@
 * 4\. Matplotlib相关操作
     * [1. Matplotlib Mac导入](matplotlib/1.md)
     * [2. Matplotlib 插值拟合](matplotlib/2.md)
-    
+    * [3. Matplotlib 正确的打开方法](matplotlib/3.md)
+
 * 5\. OpenCV相关操作
     * [1. OpenCV图像基本变换](opencv/1.md)
     * [2. 视频操作](opencv/2.md)
