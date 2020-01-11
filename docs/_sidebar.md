@@ -24,7 +24,7 @@
     * [1. Matplotlib Mac导入](matplotlib/1.md)
     * [2. Matplotlib 插值拟合](matplotlib/2.md)
     * [3. Matplotlib 正确的打开方法](matplotlib/3.md)
-    
+
 * 5\. OpenCV相关操作
     * [1. OpenCV图像基本变换](opencv/1.md)
     * [2. 视频操作](opencv/2.md)
@@ -68,3 +68,9 @@
 
 * 15\. Excel读写
     * [1. Excel与Python读写](excel/1.md)
+
+* 16\. tf.keras相关
+    * [1. 文件名格式不对产生 OSError](tf_keras/1.md)
+    * [2. 在同样的环境中重复载入模型](tf_keras/2.md)
+    * [3. lr multiplier 无法正确读入自定义的优化器](tf_keras/3.md)
+    * [4. plot_model 报缺少 graphviz 的错](tf_keras/4.md)
