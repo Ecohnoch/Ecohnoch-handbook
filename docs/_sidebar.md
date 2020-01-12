@@ -34,6 +34,8 @@
     
 * 7\. C++相关
     * [1. Vector相关](cpp/1.md)
+    * [2. 组合数](cpp/2.md)
+    * [3. StringStream](cpp/3.md)
 
 * 8\. CentOS相关
     * [1. 端口相关](centos/1.md)
