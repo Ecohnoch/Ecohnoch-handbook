@@ -10,16 +10,21 @@
     * [7. ResNet-TL](tensorflow/7.md)
     * [8. NetVLAD层写法](tensorflow/8.md)
     * [9. VGGVOX写法](tensorflow/9.md)
+
 * 2\. Numpy相关操作
     * [1. 爱因斯坦求和约定](numpy/1.md)
     * [2. np 添加一行或一列](numpy/2.md)
+
 * 3\. 音频\/图像预处理
     * [1. 多线程预处理](preprocessing/1.md)
     * [2. 图像预处理](preprocessing/2.md)
     * [3. 音频预处理](preprocessing/3.md)
+
 * 4\. Matplotlib相关操作
     * [1. Matplotlib Mac导入](matplotlib/1.md)
     * [2. Matplotlib 插值拟合](matplotlib/2.md)
+    * [3. Matplotlib 正确的打开方法](matplotlib/3.md)
+
 * 5\. OpenCV相关操作
     * [1. OpenCV图像基本变换](opencv/1.md)
     * [2. 视频操作](opencv/2.md)
@@ -65,3 +70,9 @@
 
 * 15\. Excel读写
     * [1. Excel与Python读写](excel/1.md)
+
+* 16\. tf.keras相关
+    * [1. 文件名格式不对产生 OSError](tf_keras/1.md)
+    * [2. 在同样的环境中重复载入模型](tf_keras/2.md)
+    * [3. lr multiplier 无法正确读入自定义的优化器](tf_keras/3.md)
+    * [4. plot_model 报缺少 graphviz 的错](tf_keras/4.md)
