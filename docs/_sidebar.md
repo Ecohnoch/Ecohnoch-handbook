@@ -58,9 +58,9 @@
 
 * 12\. 公式大全
     * [1. Boosting](formula/1.md)
-    * [2. 正态分布和极大似然估计](formula/2.md)
+    * [2. 正态分布和极大似然/后验估计](formula/2.md)
     * [3. EM算法](formula/3.md)
-    
+
 * 13\. Jupyter相关
     * [1. conda 与 notebook 环境搭建](jupyter/1.md)
     * [2. jupyter notebook 使用插件](jupyter/2.md)
@@ -76,3 +76,6 @@
     * [2. 在同样的环境中重复载入模型](tf_keras/2.md)
     * [3. lr multiplier 无法正确读入自定义的优化器](tf_keras/3.md)
     * [4. plot_model 报缺少 graphviz 的错](tf_keras/4.md)
+
+* 16\. scipy相关
+    * [1. scipy.stat统计量相关](scipy/1.md)
