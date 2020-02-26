@@ -60,6 +60,7 @@
     * [1. Boosting](formula/1.md)
     * [2. 正态分布和极大似然/后验估计](formula/2.md)
     * [3. EM算法](formula/3.md)
+    * [4. 切比雪夫不等式](formula/4.md)
 
 * 13\. Jupyter相关
     * [1. conda 与 notebook 环境搭建](jupyter/1.md)
