@@ -77,6 +77,7 @@
     * [2. 在同样的环境中重复载入模型](tf_keras/2.md)
     * [3. lr multiplier 无法正确读入自定义的优化器](tf_keras/3.md)
     * [4. plot_model 报缺少 graphviz 的错](tf_keras/4.md)
+    * [5. ASPP 写法](tf_keras/5.md)
 
-* 16\. scipy相关
+* 17\. scipy相关
     * [1. scipy.stat统计量相关](scipy/1.md)
