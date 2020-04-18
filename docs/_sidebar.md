@@ -24,6 +24,7 @@
     * [1. Matplotlib Mac导入](matplotlib/1.md)
     * [2. Matplotlib 插值拟合](matplotlib/2.md)
     * [3. Matplotlib 正确的打开方法](matplotlib/3.md)
+    * [4. Matplotlib 去掉坐标和散点样式](matplotlib/4.md)
 
 * 5\. OpenCV相关操作
     * [1. OpenCV图像基本变换](opencv/1.md)
@@ -78,5 +79,5 @@
     * [3. lr multiplier 无法正确读入自定义的优化器](tf_keras/3.md)
     * [4. plot_model 报缺少 graphviz 的错](tf_keras/4.md)
 
-* 16\. scipy相关
+* 17\. scipy相关
     * [1. scipy.stat统计量相关](scipy/1.md)
