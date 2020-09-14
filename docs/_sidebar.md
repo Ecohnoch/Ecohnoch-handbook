@@ -84,3 +84,6 @@
 
 * 17\. scipy相关
     * [1. scipy.stat统计量相关](scipy/1.md)
+    
+* 18\. 机器学习相关
+    * [1. svm](machineLearning/1.md)
