@@ -45,6 +45,8 @@
 
 * 8\. CentOS相关
     * [1. 端口相关](centos/1.md)
+    * [2. SSH长连接](centos/2.md)
+    * [3. Http配置](centos/3.md)
 
 * 9\. Docker相关操作
     * [1. Docker 容器镜像的查看与删除操作](docker/1.md)
