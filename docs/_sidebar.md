@@ -24,6 +24,7 @@
     * [1. Matplotlib Mac导入](matplotlib/1.md)
     * [2. Matplotlib 插值拟合](matplotlib/2.md)
     * [3. Matplotlib 正确的打开方法](matplotlib/3.md)
+    * [4. Matplotlib 去掉坐标和散点样式](matplotlib/4.md)
 
 * 5\. OpenCV相关操作
     * [1. OpenCV图像基本变换](opencv/1.md)
@@ -44,6 +45,8 @@
 
 * 8\. CentOS相关
     * [1. 端口相关](centos/1.md)
+    * [2. SSH长连接](centos/2.md)
+    * [3. Http配置](centos/3.md)
 
 * 9\. Docker相关操作
     * [1. Docker 容器镜像的查看与删除操作](docker/1.md)
@@ -81,6 +84,12 @@
 
 * 17\. scipy相关
     * [1. scipy.stat统计量相关](scipy/1.md)
+    
+* 18\. 机器学习相关
+    * [1. svm](machineLearning/1.md)
 
- * 18\. Linux相关
-    * [1. 同时移动多个文件](linux/1.md)   
+* 19\. Linux相关
+    * [1. 同时移动多个文件](linux/1.md)  
+
+* 20\. 目标检测相关
+    * [1. R-CNN 名词索引]
