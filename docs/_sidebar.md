@@ -81,3 +81,6 @@
 
 * 17\. scipy相关
     * [1. scipy.stat统计量相关](scipy/1.md)
+
+ * 18\. Linux相关
+    * [1. 同时移动多个文件](linux/1.md)   
