@@ -87,3 +87,12 @@
     
 * 18\. 机器学习相关
     * [1. svm](machineLearning/1.md)
+
+* 19\. Linux相关
+    * [1. 同时移动多个文件](linux/1.md)  
+
+* 20\. 目标检测相关
+    * [1. R-CNN 名词索引](object_detection/1.md)
+
+* 21\. Git相关
+    * [1. Fork 仓库同步进度](git/1.md)
