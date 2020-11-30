@@ -59,6 +59,7 @@
 * 11\. 环境相关
     * [1. 图像音频相关Linux+Conda环境](env/1.md)
     * [2. 配置CUDA环境](env/2.md)
+    * [3. 新环境其他必备工具](env/3.md)
 
 * 12\. 公式大全
     * [1. Boosting](formula/1.md)
