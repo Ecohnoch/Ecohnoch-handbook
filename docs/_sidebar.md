@@ -10,6 +10,8 @@
     * [7. ResNet-TL](tensorflow/7.md)
     * [8. NetVLAD层写法](tensorflow/8.md)
     * [9. VGGVOX写法](tensorflow/9.md)
+    * [10. 查看TF支持的软硬件信息](tensorflow/10.md)
+    * [11. TF2按需分配显存](tensorflow/11.md)
 
 * 2\. Numpy相关操作
     * [1. 爱因斯坦求和约定](numpy/1.md)
