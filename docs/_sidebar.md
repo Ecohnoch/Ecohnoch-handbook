@@ -54,6 +54,7 @@
     * [1. Docker 容器镜像的查看与删除操作](docker/1.md)
     * [2. Docker X11 forwarding设置](docker/2.md)
     * [3. Docker GPU设置](docker/3.md)
+    * [4. Docker Centos安装](docker/4.md)
 
 * 10\. GPU编程
     * [1. 向量相加](gpu/1.md)
