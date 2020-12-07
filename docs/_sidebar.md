@@ -104,6 +104,7 @@
 * 21\. Git相关
     * [1. Fork仓库同步进度](git/1.md)
     * [2. pull冲突](git/2.md)
+    * [3. git分支](git/3.md)
 
 * 22\. Mac相关
     * [1. Mac创建启动盘](mac/1.md)
