@@ -73,6 +73,7 @@
 * 13\. Jupyter相关
     * [1. conda 与 notebook 环境搭建](jupyter/1.md)
     * [2. jupyter notebook 使用插件](jupyter/2.md)
+    * [3. 后台运行 jupyter notebook](jupyter/3.md)
 
 * 14\. PyCharm相关
     * [1. PyCharm Python Console 无法使用 GPU](pycharm/1.md)
