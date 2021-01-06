@@ -38,6 +38,7 @@
     * [5. 边缘检测、腐蚀与膨胀](opencv/5.md)
     * [6. 直方图](opencv/6.md)
     * [7. 模板匹配](opencv/7.md)
+    * [8. opencv 安装时在 build wheel 处卡住](opencv/8.md)
 
 * 6\. Web相关
     * [1. Npm install相关问题](web/1.md)
