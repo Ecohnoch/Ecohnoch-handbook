@@ -113,6 +113,7 @@
     * [2. pull冲突](git/2.md)
     * [3. git分支](git/3.md)
     * [4. 忽略已经提交的文件](git/4.md)
+    * [5. 合并两个不相干的 history](git/5.md)
 
 * 22\. Mac相关
     * [1. Mac创建启动盘](mac/1.md)
