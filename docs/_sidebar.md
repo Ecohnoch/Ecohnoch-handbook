@@ -39,6 +39,7 @@
     * [6. 直方图](opencv/6.md)
     * [7. 模板匹配](opencv/7.md)
     * [8. opencv 安装时在 build wheel 处卡住](opencv/8.md)
+    * [9. Windows 下读取带中文字符路径图片报错](opencv/9.md)
 
 * 6\. Web相关
     * [1. Npm install相关问题](web/1.md)
