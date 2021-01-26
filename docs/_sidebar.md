@@ -125,3 +125,7 @@
 
 * 24\. 显卡环境常见问题
     * [1. 安装了驱动但是 NVIDIA-SMI 报错](nvidia/1.md)
+
+* 25\. 中间件
+    * [1. 消息队列（Python)](middleware/1.md)
+    * [2. 共享内存](middleware/2.md)
