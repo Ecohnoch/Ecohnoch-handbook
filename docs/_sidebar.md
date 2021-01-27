@@ -39,6 +39,7 @@
     * [6. 直方图](opencv/6.md)
     * [7. 模板匹配](opencv/7.md)
     * [8. opencv 安装时在 build wheel 处卡住](opencv/8.md)
+    * [9. Windows 下读取带中文字符路径图片报错](opencv/9.md)
 
 * 6\. Web相关
     * [1. Npm install相关问题](web/1.md)
@@ -103,7 +104,7 @@
 * 19\. Linux相关
     * [1. 同时移动多个文件](linux/1.md)  
     * [2. 打开与关闭图形界面](linux/2.md)
-    * [3. 终端输出的同时也保存到文件中](linux/2.md)
+    * [3. 终端输出的同时也保存到文件中](linux/3.md)
 
 * 20\. 目标检测相关
     * [1. R-CNN 名词索引](object_detection/1.md)
