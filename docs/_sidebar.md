@@ -108,6 +108,7 @@
 
 * 20\. 目标检测相关
     * [1. R-CNN 名词索引](object_detection/1.md)
+    * [2. pycocotools 中的一些报错](object_detection/2.md)
 
 * 21\. Git相关
     * [1. Fork仓库同步进度](git/1.md)
