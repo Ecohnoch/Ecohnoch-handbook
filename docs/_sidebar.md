@@ -59,6 +59,7 @@
     * [2. Docker X11 forwarding设置](docker/2.md)
     * [3. Docker GPU设置](docker/3.md)
     * [4. Docker Centos安装](docker/4.md)
+    * [5. Docker 基本操作](docker/5.md)
 
 * 10\. GPU编程
     * [1. 向量相加](gpu/1.md)
