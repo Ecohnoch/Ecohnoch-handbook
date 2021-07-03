@@ -106,6 +106,7 @@
     * [1. 同时移动多个文件](linux/1.md)  
     * [2. 打开与关闭图形界面](linux/2.md)
     * [3. 终端输出的同时也保存到文件中](linux/3.md)
+    * [4. 生成ssh-key](linux/4.md)
 
 * 20\. 目标检测相关
     * [1. R-CNN 名词索引](object_detection/1.md)
