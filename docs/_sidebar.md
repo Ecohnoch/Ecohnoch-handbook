@@ -85,6 +85,7 @@
 * 14\. PyCharm相关
     * [1. PyCharm Python Console 无法使用 GPU](pycharm/1.md)
     * [2. PyCharm Linux 版添加快捷方式](pycharm/2.md)
+    * [3. 发布pypi](pycharm/3.md)
 
 * 15\. Excel读写
     * [1. Excel与Python读写](excel/1.md)
