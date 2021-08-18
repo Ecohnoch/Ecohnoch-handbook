@@ -60,6 +60,7 @@
     * [3. Docker GPU设置](docker/3.md)
     * [4. Docker Centos安装](docker/4.md)
     * [5. Docker 基本操作](docker/5.md)
+    * [6. Docker镜像打包和加载](docker/6.md)
 
 * 10\. GPU编程
     * [1. 向量相加](gpu/1.md)
