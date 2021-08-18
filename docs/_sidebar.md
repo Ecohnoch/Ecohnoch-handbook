@@ -120,6 +120,8 @@
     * [3. git分支](git/3.md)
     * [4. 忽略已经提交的文件](git/4.md)
     * [5. 合并两个不相干的 history](git/5.md)
+    * [6. 使用 ssh 访问 GitHub](git/6.md)
+    * [7. 连接 GitHub 出现 SSL_ERROR_SYSCALL](git/7.md)
 
 * 22\. Mac相关
     * [1. Mac创建启动盘](mac/1.md)
