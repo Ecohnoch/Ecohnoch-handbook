@@ -130,6 +130,7 @@
     * [1. 保存与加载模型](torch/1.md)
     * [2. 分层学习率](torch/2.md)
     * [3. 冻结部分参数](torch/3.md)
+    * [4. tensor 切片操作](torch/4.md)
 
 * 24\. 显卡环境常见问题
     * [1. 安装了驱动但是 NVIDIA-SMI 报错](nvidia/1.md)
